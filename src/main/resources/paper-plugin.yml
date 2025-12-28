@@ -1,0 +1,4 @@
+name: Four-In-A-Row
+version: '1.0'
+main: org.dopelegend.FourInARow.FourInARow
+api-version: '1.21'
