@@ -3,7 +3,7 @@ package org.dopelegend.FourInARow.Inventory;
 import org.bukkit.entity.Player;
 
 public class FourInARowWindow {
-    public FourInARowWindow(Player player) {
+    public FourInARowWindow(Player player1, Player player2) {
 
     }
 }
